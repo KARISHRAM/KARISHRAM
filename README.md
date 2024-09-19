@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KARISHRAM
-- 👀 I’m interested in Cloud Computing and Data Analytics
-- 🌱 I’m currently studying  BTech in Computer Science
+- 👀 I’m interested in Cloud Computing,Data Analytics and Webapp Development
+- 🌱 I have completed BTech in Computer Science
 - 📫 How to reach me karishram111@gmail.com
 
 <!---
